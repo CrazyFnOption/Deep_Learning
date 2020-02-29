@@ -5,7 +5,7 @@ Course one: Neural Networks and Deep Learning
 
 Course two: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-Course three: Structuring Machine Learning Projects
+Course three: Structuring Machine Learning Projects (no homework)
 
 Course four: Convolutional Neural Networks
 
